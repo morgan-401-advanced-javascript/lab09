@@ -1,9 +1,10 @@
 {
   "source": {
-    "include" : ["./src"]
+    "include" : ["./"],
+    "exclude" : ["./node_modules"]
   },
   "opts": {
     "destination": "./docs/",
     "recurse": true
   }
-}
+ }
