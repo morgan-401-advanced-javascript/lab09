@@ -10,7 +10,7 @@
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
+* [jsdoc](https://morgan-401-advanced-javascript.github.io/lab09/) (Server assignments)
 * [styleguide](http://xyz.com) (React assignments)
 
 
