@@ -1,11 +1,10 @@
 # LAB - 09
 
-
 ### Author: Morgan T Shaw
 
 ### Links and Resources
 * [submission PR](https://github.com/morgan-401-advanced-javascript/lab09/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/morgan-401-advanced-javascript/lab09)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
@@ -14,20 +13,11 @@
 * [jsdoc](http://xyz.com) (Server assignments)
 * [styleguide](http://xyz.com) (React assignments)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
+* `MONGODB_URI` - mongodb://127.0.0.1:27017/app
 
 #### Running the app
 * `npm start`
@@ -38,6 +28,7 @@ Usage Notes or examples
   
 #### Tests
 * How do you run tests?
+npm test
 * What assertions were made?
 * What assertions need to be / should be made?
 
