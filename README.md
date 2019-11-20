@@ -3,6 +3,7 @@
 ### Author: Morgan T Shaw
 
 ### Links and Resources
+
 * [submission PR](https://github.com/morgan-401-advanced-javascript/lab09/pull/3)
 * [travis](https://travis-ci.com/morgan-401-advanced-javascript/lab09)
 * [front-end](https://lab9mts.herokuapp.com/)
