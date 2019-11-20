@@ -3,15 +3,10 @@
 ### Author: Morgan T Shaw
 
 ### Links and Resources
-* [submission PR](https://github.com/morgan-401-advanced-javascript/lab09/pull/2)
-* [travis](https://travis-ci.com/morgan-401-advanced-javascript/lab09)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
 
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](https://morgan-401-advanced-javascript.github.io/lab09/) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [submission PR](https://github.com/morgan-401-advanced-javascript/lab09/pull/3)
+* [travis](https://travis-ci.com/morgan-401-advanced-javascript/lab09)
+* [front-end](https://lab9mts.herokuapp.com/)
 
 
 ### Setup
@@ -25,8 +20,6 @@
 #### Tests
 * How do you run tests?
 npm test
-* What assertions were made?
-* What assertions need to be / should be made?
 
 #### UML
 ![UML](./assets/umllab9.jpg)
